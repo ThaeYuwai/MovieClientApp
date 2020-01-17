@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SeriesFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+
+            style="@style/TitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="ဇာတ်လမ်းတွဲမ်ားအားလံုး"
+            android:id="@+id/txt_all_series"/>
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_below="@id/txt_all_series"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ic_all_series"
+            />
+    </RelativeLayout>
+
+
+
+</FrameLayout>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "783344865588",
+    "firebase_url": "https://moviesadminpanel.firebaseio.com",
+    "project_id": "moviesadminpanel",
+    "storage_bucket": "moviesadminpanel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783344865588:android:75816c15a831bdcbd81561",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783344865588-5lbbnde2j27nd83c79hjpqd9pas9tf4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "2754de80dc864a6ad7de89332ea2d9978553eae5"
+          }
+        },
+        {
+          "client_id": "783344865588-60vsonmue1hfrtt7s2pemipk6hp3v7s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavdcrNNAAO17IuIwAmzJQcflwUijHnB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783344865588-60vsonmue1hfrtt7s2pemipk6hp3v7s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783344865588:android:e028a793d957fd8ed81561",
+        "android_client_info": {
+          "package_name": "com.waiwai.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783344865588-g15u9vvdc6ffibdpktueufarukj5no2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waiwai.myapplication",
+            "certificate_hash": "37ba794000a1cebf78248dbaa7fca19530c230b1"
+          }
+        },
+        {
+          "client_id": "783344865588-60vsonmue1hfrtt7s2pemipk6hp3v7s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavdcrNNAAO17IuIwAmzJQcflwUijHnB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783344865588-60vsonmue1hfrtt7s2pemipk6hp3v7s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783344865588:android:c1f05ed1c8c5b687d81561",
+        "android_client_info": {
+          "package_name": "com.waiway.clientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783344865588-edadve08ekefpqgsbbftg2kd4do4u34a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waiway.clientapp",
+            "certificate_hash": "37ba794000a1cebf78248dbaa7fca19530c230b1"
+          }
+        },
+        {
+          "client_id": "783344865588-60vsonmue1hfrtt7s2pemipk6hp3v7s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavdcrNNAAO17IuIwAmzJQcflwUijHnB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783344865588-60vsonmue1hfrtt7s2pemipk6hp3v7s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
